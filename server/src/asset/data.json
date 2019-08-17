@@ -1,0 +1,116 @@
+{
+    "users": [
+        {
+            "id": "AIIRWXK60P8L06PIYQYXB0BI8F9MWJ95TSEZ8W1BPB9FO7JSJFSX",
+            "email": "au.tuyen@gmail.com",
+            "password": "e8699cd85e7238e4",
+            "firstName": "T",
+            "lastName": "ADT",
+            "gender": "male",
+            "phone": "90884736",
+            "national": "VietNam",
+            "birthday": "1997-12-25",
+            "token": "ZTezt58Ud64S6H4osiarSDP=ZrYvMQGc7Ow5Cn1zg6P8=qxHiiYCIUUYzvo15Meo"
+        },
+        {
+            "id": "Y821VIYOQAZ77OLVKUL77ENM84JVAX6W8SM7ZPY4VQ4Z9MWA9RN0",
+            "email": "au.tuyen2512@gmail.com",
+            "password": "c8699cd85e531dd471aaf8457c",
+            "firstName": "T",
+            "lastName": "ADT",
+            "gender": "male",
+            "phone": "1212317086",
+            "national": "VietNam",
+            "birthday": "1996-12-25",
+            "token": "PvUNDrJOc7kuMj67v4JAvSN3354G45=9tv25H6N9FfrU2ie21h59Hu=zcy1oam=l"
+        }
+    ],
+    "rooms": [
+        {
+            "id":"YJ89WB75RP2WOATRL7F1MOHFTJAADJ",
+            "roomName": "room A",
+            "bossName": "Henry",
+            "bossId": "N996ZF9A6OXL1720J0HY71XPPCT0HF8XA5TY914SNJGA2H1RKZL1",
+            "members": [
+                {
+                    "id": "N996ZF9A6OXL1720J0HY71XPPCT0HF8XA5TY914SNJGA2H1RKZL1",
+                    "email": "henry.jacson@gmail.com",
+                    "firstName": "Henry",
+                    "lastName": "Jacson",
+                    "gender": "male",
+                    "phone": "621077777",
+                    "national": "America",
+                    "birthday": "1989-6-12"
+                },
+                {
+                    "id": "6NCOVC7HG1QRLD2UUDGOE7M6P4I60D9R6USZZ1FZGIH6ZILOW78W",
+                    "email": "marry.hamson@gmail.com",
+                    "firstName": "Marry",
+                    "lastName": "Hamson",
+                    "gender": "female",
+                    "phone": "720289019",
+                    "national": "Mexico",
+                    "birthday": "1990-01-25"
+                },
+                {
+                    "id": "TA0I9DYHHTX9010YCHGPINEHPMOE6HNRFEWTV4DT99U8UKOL1C9K",
+                    "email": "jack.ripper@gmail.com",
+                    "firstName": "J",
+                    "lastName": "RP",
+                    "gender": "male",
+                    "phone": "313331789",
+                    "national": "Canada",
+                    "birthday": "1993-09-02"
+                }
+            ]
+        },
+        {
+            "id":"5OUTXKOW5M8ZH9KALIEYY988K0Y65E",
+            "roomName": "room B",
+            "bossName": "Henry",
+            "bossId": "GPC91T4ZQXU8KOJH1Q9M8HUXIY86S82BEANWTIM89792NTWZQPQZ",
+            "members": [
+                {
+                    "id": "GPC91T4ZQXU8KOJH1Q9M8HUXIY86S82BEANWTIM89792NTWZQPQZ",
+                    "email": "scarlet.Holme@gmail.com",
+                    "firstName": "scarlet",
+                    "lastName": "Holme",
+                    "gender": "female",
+                    "phone": "500700689",
+                    "national": "England",
+                    "birthday": "1990-04-21"
+                },
+                {
+                    "id": "ETO6DSYB58BZ8CQH0PUXJE9J84VIC1IF07A7FEOMZCOUAEYBEPQI",
+                    "email": "maria.lamda@gmail.com",
+                    "firstName": "Maria",
+                    "lastName": "lamda",
+                    "gender": "female",
+                    "phone": "778930057",
+                    "national": "Mexico",
+                    "birthday": "1986-01-20"
+                },
+                {
+                    "id": "Y2QUI40LCO29VYLCJ2YBEIOW24KLTDHRSS6R81I98ZFNYL05IU9A",
+                    "email": "shea.sasi@gmail.com",
+                    "firstName": "Shea",
+                    "lastName": "Sasi",
+                    "gender": "female",
+                    "phone": "988666763",
+                    "national": "Canada",
+                    "birthday": "1987-12-25"
+                },
+                {
+                    "id": "CFZMOCPHOONJDC0EYSJL5JGDN57VIGK294S0HKKLLA7A2FQ6ZUDB",
+                    "email": "stella.barian@gmail.com",
+                    "firstName": "Stella",
+                    "lastName": "Barian",
+                    "gender": "female",
+                    "phone": "654876987",
+                    "national": "France",
+                    "birthday": "1987-10-25"
+                }
+            ]
+        }
+    ]
+}

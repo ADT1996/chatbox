@@ -1,0 +1,2 @@
+const String LOGINSCREEN = 'LOGIN';
+const String REGISTRYSCREEN = 'REGISTRY';
